@@ -17,7 +17,7 @@ body {
 }
 
 .container .title {
-    font-size: 45px;
+    font-size : 45px;
     color    : white;
 }
 
@@ -37,5 +37,5 @@ body {
 }
 
 .container .buttons>#btnno {
-    margin-left: 70px;
+    margin-left : 70px;
 }
